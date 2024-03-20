@@ -137,6 +137,7 @@ function pedirCamposCoche(){
  	mes: Eneros
   	anio:2000;
 }
+*/
 
 // Crear de una manera simple, un objeto y un campo.
 // calendario.dia =1;
