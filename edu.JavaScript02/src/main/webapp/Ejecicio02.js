@@ -64,6 +64,10 @@ var nuevoVehiculo = new coches('Honda', 'Civid', 2010);
 // Acceder por Posicion a un Array
 // arrayConstante[2]
 
+// Recorrer un Array, utilizando un metodo Especifico del for.
+// for(i in arrayElementos){
+// console.log(arrayElementos[i])}
+
 
 /////////////////////////////////////////
 ////// CREACION DE UNA FUNCION///////////
@@ -111,6 +115,7 @@ function coches(marca, modelo, anioFabricacion){
 */
 
 
+
 // Introducir los campos necesarios Pedidos por el USUARIO, y crear una copia de Coche con los campos que lo componen
 /*
 
@@ -125,6 +130,18 @@ function pedirCamposCoche(){
 }
 
 */ 
+
+// Crear un Objeto
+/* var calendario ={
+	dia:1
+ 	mes: Eneros
+  	anio:2000;
+}
+
+// Crear de una manera simple, un objeto y un campo.
+// calendario.dia =1;
+// calendario.mes = Enero;
+// calendario.anio = 2000;
 
 
 
