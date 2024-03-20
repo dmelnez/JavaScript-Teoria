@@ -6,7 +6,7 @@
 
 
 
-var nuevoVehiculo = new coches('Honda', 'Civid', 2010);
+// var nuevoVehiculo = new coches('Honda', 'Civid', 2010);
 
 
 
